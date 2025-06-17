@@ -11,10 +11,7 @@
 
 - 📫 How to reach me **melodydamisi22@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-https://medium.com/@melodyegwuchukwu/automate-dbt-runs-to-bigquery-with-docker-gcr-cloud-run-scheduler-dec7b4a842a2?source=user_profile_page---------0-------------eb5561f8894c----------------------
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
