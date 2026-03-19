@@ -1,5 +1,5 @@
 <h1 align="center"> I'm Melody Egwuchukwu🌸</h1>
-<h3 align="center">I am a skilled Data Analyst with expertise in extracting, transforming, and visualizing data to drive actionable insights. Currently upskilling into cloud engineering, focusing on data solutions and cloud-based technologies. My passion lies in leveraging cloud platforms to optimize data storage, processing, and analytics.</h3>
+<h3 align="center">Cloud Data Engineer with experience building scalable ELT/ETL pipelines, event-driven data platforms, and analytics-ready data models across GCP and AWS. I design and ship production data infrastructure: BigQuery, Databricks, Redshift, Airflow, dbt, Docker, Terraform and connect it to the business layer through BI tools and stakeholder-facing insights.</h3>
 
 - 🌱 I’m currently open to **Cloud and Data roles**
 
