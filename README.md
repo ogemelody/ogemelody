@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@melodyegwuchukwu](https://medium.com/@melodyegwuchukwu)
 
-- 💬 Ask me about **Data, Analytics, Databases**
+- 💬 Ask me about **Data, Infrastructure Automation, Pipeline Workflows**
 
 - 📫 How to reach me **melodydamisi22@gmail.com**
 
