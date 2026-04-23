@@ -20,5 +20,83 @@
 <a href="https://medium.com/@melodyegwuchukwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@melodyegwuchukwu" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+New ---------------------
+
+# 👋 Hi, I’m Melody
+
+Cloud Data Engineer based in Germany 🇩🇪  
+
+I build **cloud-native data infrastructure that actually runs in production** (not just POCs).
+
+With 4+ years across data engineering and analytics, I focus on designing and deploying scalable data pipelines, event-driven architectures, and cloud infrastructure using Infrastructure as Code.
+
+---
+## 🌍 Background
+
+Built my career across data analytics → data engineering → cloud infrastructure  
+
+- Selected for AWS re:Invent grant (Las Vegas)  
+- Currently working toward Databricks Data Engineer Professional certification  
+
+---
+
+##  What I work with
+
+### ☁️ Cloud & Infrastructure
+- AWS (EC2, ECS, S3, Lambda, Glue, IAM, Kinesis, Dynamodb, RDS, Redshift, Autoscaling,VPC,Subnets)
+- Azure Data Factory, ADLS, EventHubs,
+- Terraform (Infrastructure as Code)
+- Docker
+
+###  Data Engineering
+- dbt
+- Apache Airflow
+- Kafka, Flink
+- Databricks (Delta Lake, Medallion Architecture, Unity Catalog)
+
+###  Languages
+- SQL  
+- Python  
+
+---
+
+##  What I’m building
+
+###  StadtPuls *(In Progress)*
+**Real-time city intelligence platform for NRW**
+
+- Streaming ingestion with Kafka + Flink  
+- Data modelling with dbt  
+- Storage across BigQuery & ClickHouse  
+- Vector search with Qdrant  
+- API layer with FastAPI  
+
+**Goal:** Turn raw city data into real-time, usable insights  
+
+---
+
+##  What I think about
+
+- Data platforms should be **observable, not mysterious**  
+- Infrastructure should be **reproducible (Terraform > manual setup)**  
+- Pipelines should be **event-driven where it matters**  
+- “Production-ready” is a higher bar than most people think  
+
+---
+
+##  Selected Work
+
+- AWS 3-tier application deployment on EC2   
+- Serverless container deployment using ECS (Faragate) 
+- Portfolio website hosted on S3 + CloudFront with monitoring Analytics (SNS,Lambda,SES) 
+
+---
+
+
+
+## 🤝 Let’s connect
+
+- 💌 Email: melodydamisi22@gmail.com  
+- 📫 Open to Cloud Data Engineer roles in Germany  
+
