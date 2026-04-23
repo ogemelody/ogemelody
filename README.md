@@ -33,7 +33,16 @@ Built my career across data analytics → data engineering → cloud infrastruct
 
 ###  Languages
 - SQL  
-- Python  
+- Python
+- Bash
+- Linux
+  
+### Infrastructure & CI/CD 
+- Terraform
+- Azure DevOps
+- GitHub Actions
+- AWS Cloudformation
+- AWS Codepipeline 
 
 ---
 
