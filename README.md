@@ -1,27 +1,3 @@
-<h1 align="center"> I'm Melody Egwuchukwu🌸</h1>
-<h3 align="center">Cloud Data Engineer with experience building scalable ELT/ETL pipelines, event-driven data platforms, and analytics-ready data models across GCP and AWS. I design and ship production data infrastructure: BigQuery, Databricks, Redshift, Airflow, dbt, Docker, Terraform and connect it to the business layer through BI tools and stakeholder-facing insights.</h3>
-
-- 🌱 I’m currently open to **Cloud and Data roles**
-
-- 👯 I’m looking to collaborate on **Cloud/Data Engineering**
-
-- 📝 I regularly write articles on [https://medium.com/@melodyegwuchukwu](https://medium.com/@melodyegwuchukwu)
-
-- 💬 Ask me about **Data, Infrastructure Automation, Pipeline Workflows**
-
-- 📫 How to reach me **melodydamisi22@gmail.com**
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/melody egwuchukwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melody egwuchukwu" height="30" width="40" /></a>
-<a href="https://instagram.com/oge.melody" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oge.melody" height="30" width="40" /></a>
-<a href="https://medium.com/@melodyegwuchukwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@melodyegwuchukwu" height="30" width="40" /></a>
-</p>
-
-
-New ---------------------
 
 # 👋 Hi, I’m Melody
 
