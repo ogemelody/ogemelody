@@ -73,7 +73,7 @@ Built to production standards: data governance, lineage tracking, and a single s
 - 💌 Email: melodydamisi22@gmail.com
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Melody_Egwuchukwu-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melodyegwuchukwu/)
-[![Instagram](https://img.shields.io/badge/Instagram-@clouddatafriend-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/clouddatafriend)
+[![Instagram](https://img.shields.io/badge/Instagram-@oge.melody-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/oge.melody)
 [![Medium](https://img.shields.io/badge/Medium-@melodyegwuchukwu-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@melodyegwuchukwu)
 
 📍 Germany · Open to Cloud Data Engineer roles
