@@ -78,6 +78,3 @@ Built to production standards: data governance, lineage tracking, and a single s
 
 📍 Germany · Open to Cloud Data Engineer roles
 
----------------------------
-
-📍 Germany (NRW / Berlin) · Open to Cloud Data Engineer roles
