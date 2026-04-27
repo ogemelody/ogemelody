@@ -10,43 +10,35 @@ With 4+ years across data engineering and analytics, I focus on designing and de
 ---
 ## 🌍 Background
 
-Built my career across data analytics → data engineering → cloud infrastructure  
+Built my career across data analytics → data engineering.In 2025 I made a deliberate move into cloud infrastructure, spending the year building real deployments on AWS: a 3-tier application on EC2, a serverless deployment on ECS, and a portfolio site hosted on S3 with CloudFront.
 
-- Selected for AWS re:Invent grant (Las Vegas)  
-- Currently working toward Databricks Data Engineer Professional certification  
+- Approved for a **Bildungsgutschein** from the German government for cloud engineering studies
+- Selected for an **AWS re:Invent grant** — attended in person in Las Vegas
+
+The combination of data depth and cloud infrastructure is where I operate.
 
 ---
 
 ##  What I work with
+**Cloud Platforms**
+AWS (EC2 · ECS · S3 · Lambda · Glue · IAM · CloudFront· Kinesis ·) · Azure (ADF · ADLS · Blob· EventHub ·) · GCP
 
-### ☁️ Cloud & Infrastructure
-- AWS (EC2, ECS, S3, Lambda, Glue, IAM, Kinesis, Dynamodb, RDS, Redshift, Autoscaling,VPC,Subnets)
-- Azure Data Factory, ADLS, EventHubs,
-- Terraform (Infrastructure as Code)
-- Docker
+**Data Engineering**
+dbt · Apache Airflow · Kafka · Flink · Databricks (Delta Lake · Unity Catalog · Auto Loader · Lakeflow)
 
-###  Data Engineering
-- dbt
-- Apache Airflow
-- Kafka, Flink
-- Databricks (Delta Lake, Medallion Architecture, Unity Catalog)
+**Infrastructure & IaC**
+Terraform · Docker · GitHub Actions· Azure DevOps 
 
-###  Languages
-- SQL  
-- Python
-- Bash
-- Linux
-  
-### Infrastructure & CI/CD 
-- Terraform
-- Azure DevOps
-- GitHub Actions
-- AWS Cloudformation
-- AWS Codepipeline 
+**Languages**
+SQL · Python· Linux 
 
 ---
 
 ##  What I’m building
+**Databricks Restaurant Analytics Platform** 
+
+End-to-end analytics platform built on the Medallion Architecture (Bronze → Silver → Gold) using Delta Lake, Unity Catalog, and Auto Loader on GCP.
+Built to production standards: data governance, lineage tracking, and a single source of truth.
 
 ###  StadtPuls *(In Progress)*
 **Real-time city intelligence platform for NRW**
@@ -65,8 +57,7 @@ Built my career across data analytics → data engineering → cloud infrastruct
 
 - Data platforms should be **observable, not mysterious**  
 - Infrastructure should be **reproducible (Terraform > manual setup)**  
-- Pipelines should be **event-driven where it matters**  
-- “Production-ready” is a higher bar than most people think  
+- Pipelines should be **event-driven where it matters**   
 
 ---
 
@@ -78,10 +69,15 @@ Built my career across data analytics → data engineering → cloud infrastruct
 
 ---
 
+## Connect
+- 💌 Email: melodydamisi22@gmail.com
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Melody_Egwuchukwu-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melodyegwuchukwu/)
+[![Instagram](https://img.shields.io/badge/Instagram-@clouddatafriend-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/clouddatafriend)
+[![Medium](https://img.shields.io/badge/Medium-@melodyegwuchukwu-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@melodyegwuchukwu)
 
+📍 Germany · Open to Cloud Data Engineer roles
 
-## 🤝 Let’s connect
+---------------------------
 
-- 💌 Email: melodydamisi22@gmail.com  
-- 📫 Open to Cloud Data Engineer roles in Germany  
-
+📍 Germany (NRW / Berlin) · Open to Cloud Data Engineer roles
