@@ -14,7 +14,7 @@ Built my career across data analytics → data engineering.In 2025 I made a deli
 
 - Approved for a **Bildungsgutschein** from the German government for cloud engineering studies
 - Selected for an **AWS re:Invent grant** — attended in person in Las Vegas
-- Selected as Women in Big Data (WiBD) Mentor for Summmer 2026
+- Selected as Women in Big Data (WiBD) **Mentor** for Summmer 2026
 
 The combination of data depth and cloud infrastructure is where I operate.
 
