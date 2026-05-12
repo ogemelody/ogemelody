@@ -44,7 +44,7 @@ Built to production standards: data governance, lineage tracking, and a single s
 
 - Streaming ingestion with Kafka + Flink  
 - Data modelling with dbt  
-- Storage across BigQuery & ClickHouse  
+- Storage across Dynamo DB & ClickHouse  
 - Vector search with Qdrant  
 - API layer with FastAPI  
 
