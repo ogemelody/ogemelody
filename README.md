@@ -75,5 +75,5 @@ Built to production standards: data governance, lineage tracking, and a single s
 [![Instagram](https://img.shields.io/badge/Instagram-@oge.melody-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/oge.melody)
 [![Medium](https://img.shields.io/badge/Medium-@melodyegwuchukwu-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@melodyegwuchukwu)
 
-📍 Germany · Open to Cloud Data Engineer roles
+ · Open to Cloud Data Engineer roles
 
