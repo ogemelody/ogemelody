@@ -3,14 +3,12 @@
 
 Cloud Data Engineer based in Germany 🇩🇪  
 
-I build **cloud-native data infrastructure that actually runs in production** (not just POCs).
-
-With 4+ years across data engineering and analytics, I focus on designing and deploying scalable data pipelines, event-driven architectures, and cloud infrastructure using Infrastructure as Code.
+With experience building scalable data platforms across automotive and enterprise environments. Skilled in designing event-driven and batch processing systems using AWS, Databricks, and Azure with a focus on streaming ingestion, data modelling, and production-grade pipeline reliability. Experience includes automotive exposure (Porsche internship), enterprise analytics systems (Johnson & Johnson), and cloud-native data engineering using modern lakehouse architectures.
 
 ---
 ## 🌍 Background
 
-Built my career across data analytics → data engineering.In 2025 I made a deliberate move into cloud infrastructure, spending the year building real deployments on AWS: a 3-tier application on EC2, a serverless deployment on ECS, and a portfolio site hosted on S3 with CloudFront.
+With a background in Mechanical Engineering, I started out my career across data analytics there on into data engineering.In 2025 I made a deliberate move into cloud infrastructure, spending the year building real deployments on AWS: a 3-tier application on EC2, a serverless deployment on ECS, and a portfolio site hosted on S3 with CloudFront.
 
 - Approved for a **Bildungsgutschein** from the German government for cloud engineering studies
 - Selected for an **AWS re:Invent grant** — attended in person in Las Vegas
