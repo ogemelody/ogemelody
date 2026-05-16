@@ -3,7 +3,7 @@
 
 Cloud Data Engineer based in Germany 🇩🇪  
 
-With experience building scalable data platforms across automotive and enterprise environments. Skilled in designing event-driven and batch processing systems using AWS, Databricks, and Azure with a focus on streaming ingestion, data modelling, and production-grade pipeline reliability. Experience includes automotive exposure (Porsche internship), enterprise analytics systems (Johnson & Johnson), and cloud-native data engineering using modern lakehouse architectures.
+With experience building scalable data platforms across automotive and enterprise environments. Skilled in designing event-driven and batch processing systems using AWS, Databricks, and Azure with a focus on streaming ingestion, data modelling, and production-grade pipeline reliability. Experience includes automotive exposure (Porsche), enterprise analytics systems (Johnson & Johnson), and cloud-native data engineering using modern lakehouse architectures.
 
 ---
 ## 🌍 Background
