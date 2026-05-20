@@ -34,7 +34,7 @@ SQL · Python· Linux
 ---
 
 ##  What I’m building
-**Databricks Restaurant Analytics Platform** 
+**Vehicle Telemetry Platform on Databricks** 
 
 End-to-end analytics platform built on the Medallion Architecture (Bronze → Silver → Gold) using Delta Lake, Unity Catalog, and Auto Loader on GCP.
 Built to production standards: data governance, lineage tracking, and a single source of truth.
