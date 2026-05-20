@@ -60,14 +60,6 @@ Built to production standards: data governance, lineage tracking, and a single s
 
 ---
 
-##  Selected Work
-
-- AWS 3-tier application deployment on EC2   
-- Serverless container deployment using ECS (Faragate) 
-- Portfolio website hosted on S3 + CloudFront with monitoring Analytics (SNS,Lambda,SES) 
-
----
-
 ## Connect
 - 💌 Email: melodydamisi22@gmail.com
   
