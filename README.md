@@ -18,7 +18,7 @@ The combination of data depth and cloud infrastructure is where I operate.
 
 ##  What I work with
 **Cloud Platforms**
-AWS (EC2 · ECS · S3 · Lambda · Glue · IAM · CloudFront· Kinesis ·) · Azure (ADF · ADLS · Blob· EventHub ·) · GCP
+AWS (EC2 · ECS · S3 · Lambda · Glue · IAM · CloudFront· Kinesis ·) · GCP  (BigQuery · DataFlow · Cloud Run· Cloud Storage ) · Azure
 
 **Data Engineering**
 dbt · Apache Airflow · Kafka · Flink · Databricks (Delta Lake · Unity Catalog · Auto Loader · Lakeflow)
